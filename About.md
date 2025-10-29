@@ -1,8 +1,9 @@
 ---
+layout: page
 title: "About Jenn Shagrin"
-date: 2025-10-29
-tags: [About, WomenInCyber, BlueTeam, AI_Literacy, CrumpledThoughts, CIAT]
+permalink: /about/
 ---
+
 
 # About Jenn Shagrin
 
