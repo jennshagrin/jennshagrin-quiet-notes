@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /Personal_Reflections
+
+# Allow indexing of core study areas
+Allow: /AI_Data_CySA_Track
+Allow: /HTB_JuniorAnalyst
+Allow: /CIAT_Portfolio

@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Jenn Shagrin — Quiet Notes"
+theme = "ananke"
+enableRobotsTXT = true
+
+[params]
+  description = "Women in Cybersecurity • Blue Team • AI/Data Literacy"

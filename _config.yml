@@ -1,0 +1,11 @@
+title: "Jenn Shagrin — Quiet Notes"
+description: "Women in Cybersecurity • Blue Team • AI/Data Literacy"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - Personal_Reflections
